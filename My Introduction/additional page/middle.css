@@ -1,0 +1,10 @@
+.middle{
+position:relative; 
+left:auto; 
+width:225px;
+display:flex;
+margin:0px;
+font-family:Constantia; 
+justify-content:center;
+color: bisque;
+}

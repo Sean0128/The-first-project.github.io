@@ -1,0 +1,28 @@
+.header{
+    background:"back.jpg";
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav{
+    overflow: hidden;
+    margin: 0 auto;
+    width:max-content
+
+}
+
+.topnav a{
+    float:left;
+    display: block;
+    color: rgb(210, 179, 21);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width:300px
+}
+
+.topnav a:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+
